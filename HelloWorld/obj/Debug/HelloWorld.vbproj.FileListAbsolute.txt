@@ -1,0 +1,15 @@
+C:\Users\victo\AppData\Local\Temporary Projects\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\victo\AppData\Local\Temporary Projects\HelloWorld\obj\Debug\HelloWorld.vbprojResolveAssemblyReference.cache
+C:\Users\victo\AppData\Local\Temporary Projects\HelloWorld\obj\Debug\HelloWorld.HelloForm.resources
+C:\Users\victo\AppData\Local\Temporary Projects\HelloWorld\obj\Debug\HelloWorld.Resources.resources
+C:\Users\victo\AppData\Local\Temporary Projects\HelloWorld\obj\Debug\HelloWorld.vbproj.GenerateResource.Cache
+C:\Users\victo\AppData\Local\Temporary Projects\HelloWorld\obj\Debug\HelloWorld.xml
+C:\Users\victo\AppData\Local\Temporary Projects\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\victo\AppData\Local\Temporary Projects\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\victo\AppData\Local\Temporary Projects\HelloWorld\bin\Debug\HelloWorld.xml
+C:\Users\victo\AppData\Local\Temporary Projects\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\victo\AppData\Local\Temporary Projects\HelloWorld\obj\Debug\HelloWorld.pdb
+c:\users\victo\onedrive\documents\visual studio 2015\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+c:\users\victo\onedrive\documents\visual studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+c:\users\victo\onedrive\documents\visual studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.xml
+c:\users\victo\onedrive\documents\visual studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
